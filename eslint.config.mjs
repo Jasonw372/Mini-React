@@ -18,7 +18,8 @@ export default [
 	{
 		rules: {
 			'no-case-declarations': 'off',
-			'no-constant-condition': 'off'
+			'no-constant-condition': 'off',
+			'@typescript-eslint/no-explicit-any': 'off'
 		}
 	}
 ];
